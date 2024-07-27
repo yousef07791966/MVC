@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<style>
+
+   
+
+    .contact-form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        width: 300px;
+    }
+
+        .contact-form h2 {
+            margin-bottom: 20px;
+        }
+
+        .contact-form label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .contact-form input,
+        .contact-form select,
+        .contact-form button {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+        }
+
+        .contact-form button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+            .contact-form button:hover {
+                background-color: #218838;
+            }
+
+
+</style>
+<main aria-labelledby="title">
+    <form method="post">
+
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+
+            <label for="gender">Gender:</label>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+
+            <label for="department">Department:</label>
+            <select id="department" name="department">
+                <option value="sales">Sales</option>
+                <option value="support">Support</option>
+                <option value="marketing">Marketing</option>
+            </select>
+
+
+
+            <input type="submit" name="submit" value="submit">
+        </div>
+
+    </form>
+
+    <h2>your answres </h2>
+    <p> your name : @ViewBag.name </p>
+    <p> your age : @ViewBag.age </p>
+    <p> your gender : @ViewBag.gender </p>
+    <p> your department : @ViewBag.department </p>
+</main>
