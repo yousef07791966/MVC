@@ -18,5 +18,9 @@ namespace f_1.Controllers
         {
             return View();
         }
+        public ActionResult sara()
+        {
+            return View();
+        }
     }
 }

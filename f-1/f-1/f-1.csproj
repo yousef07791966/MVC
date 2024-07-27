@@ -188,6 +188,7 @@
     <Content Include="Views\user\user2.cshtml" />
     <Content Include="Views\user\user3.cshtml" />
     <Content Include="Views\Home\dashboord.cshtml" />
+    <Content Include="Views\father\sara.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
