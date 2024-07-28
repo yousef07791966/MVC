@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\23-7-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\source\\repos\\23-7-2024\\23-7-2024\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\source\\repos\\23-7-2024\\23-7-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\source\\repos\\23-7-2024\\23-7-2024\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\source\\repos\\23-7-2024\\23-7-2024\\views\\shared\\_tasklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\views\\shared\\_tasklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\desktop\\mvc\\23-7-2024\\23-7-2024\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9E1E177D-2752-4444-BC94-28CA39ED4C62}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +19,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "23-7-2024\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "23-7-2024\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T09:31:26.521Z",
-              "EditorCaption": ""
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\23-7-2024\\23-7-2024\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "23-7-2024\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\23-7-2024\\23-7-2024\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "23-7-2024\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T10:31:15.548Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "23-7-2024\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "23-7-2024\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:30:00.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "23-7-2024\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "23-7-2024\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T09:29:18.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_taskLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\Shared\\_taskLayout.cshtml",
-              "RelativeDocumentMoniker": "23-7-2024\\Views\\Shared\\_taskLayout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\23-7-2024\\23-7-2024\\Views\\Shared\\_taskLayout.cshtml",
-              "RelativeToolTip": "23-7-2024\\Views\\Shared\\_taskLayout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T09:24:21.212Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
